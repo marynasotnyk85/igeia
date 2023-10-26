@@ -27,7 +27,7 @@
 }
 
 #hero {
-  background-image: url('../images/desktop/image-hero-dentist.png');
+  background-image: url('../public/images/desktop/image-hero-dentist.png');
   background-repeat: no-repeat;
   background-size: cover;
 }
